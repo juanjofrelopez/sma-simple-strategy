@@ -1,4 +1,8 @@
-# Main idea
+# Blogpost
+
+here: https://juanjofrelopez.github.io/blog/sma_strat.html
+
+## Main idea
 
 To write a simple 3 moving average trading strategy from close price
 find the optimized parameters for this weekly filters that produce either:
@@ -6,9 +10,9 @@ find the optimized parameters for this weekly filters that produce either:
 - the best yields
 - the least amount of loosing bets
 
-# funny commands
+## funny commands
 
-## start the venv
+### start the venv
 
 ```bash
 
@@ -16,7 +20,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-## install the deps
+### install the deps
 
 ```bash
 pip install -r requirements.txt
